@@ -1,0 +1,7 @@
+
+gymnasium[toy-text]
+numpy
+matplotlib
+imageio
+pillow
+jupyter
